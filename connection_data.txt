@@ -1,0 +1,9 @@
+<?php
+
+$server = "ix-dev.cs.uoregon.edu";
+$dbname = "dungeon_aoe";
+$user = "guest";
+$pass = "guest";
+$port = "3296";
+
+?>
